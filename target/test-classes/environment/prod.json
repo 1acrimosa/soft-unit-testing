@@ -1,0 +1,6 @@
+{
+  "protocol": "https",
+  "domain": "bookmed.vercel.app/auth",
+  "wait": 10,
+  "host": "https://bookmed.vercel.app/auth"
+}
